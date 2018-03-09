@@ -7,8 +7,10 @@ Altitude vs Time
 ![Altitude annotated](https://i.imgur.com/80VYqyB.png)
 Acceleration vs Time
 ![Acceleration annotated](https://i.imgur.com/83I3yyV.png)
-** Flight Trajectory vs Time **
+**Flight Trajectory vs Time**
+
 Red - Engines on
+
 Blue - Engines off
 ![Flight Trajectory](https://i.imgur.com/3RpQdsQ.png)
 Altitude vs Acceleration
