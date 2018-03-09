@@ -1,20 +1,16 @@
-## Graphs of the NROL-76 launch:
-### |Velocity| vs Time
-![Velocity Abs anotated](https://i.imgur.com/uPfI5ph.png)
+Graphs of the Iridium NEXT 3 launch:
+|Velocity| vs Time
+![Velocity Abs annotated](https://i.imgur.com/u9SyysB.png)
 Velocity vs Time
-![Velocity](https://i.imgur.com/pHdiQi7.png)
+![Velocity](https://i.imgur.com/UIzB33a.png)
 Altitude vs Time
-![Altitude annotated](https://i.imgur.com/80VYqyB.png)
+![Altitude annotated](https://i.imgur.com/tLFF9JT.png)
 Acceleration vs Time
-![Acceleration annotated](https://i.imgur.com/83I3yyV.png)
-**Flight Trajectory vs Time**
-
-Red - Engines on
-
-Blue - Engines off
-![Flight Trajectory](https://i.imgur.com/3RpQdsQ.png)
+![Acceleration annotated](https://i.imgur.com/0nCONIU.png)
+Flight Trajectory vs Time
+![Flight Trajectory](https://i.imgur.com/wmiD6X1.png)
 Altitude vs Acceleration
-![Altitude vs Acceleration anotated](https://i.imgur.com/RkYfPsX.png)
+![Altitude vs Acceleration annotated](https://i.imgur.com/L8R5jnk.png)
 Altitude vs Velocity
-![Altitude Vs Velocity](https://i.imgur.com/XD4Q5VF.png)
-![Aerodynamic Pressure vs Time](https://i.imgur.com/e2FYwzM.png)
+![Altitude Vs Velocity](https://i.imgur.com/I7SleK5.png)
+![Aerodynamic Pressure vs Time](https://i.imgur.com/2u6ddSN.png)
