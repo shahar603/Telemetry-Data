@@ -1,5 +1,5 @@
 ## Graphs of the NROL-76 launch:
-**|Velocity| vs Time**
+### |Velocity| vs Time
 ![Velocity Abs anotated](https://i.imgur.com/uPfI5ph.png)
 Velocity vs Time
 ![Velocity](https://i.imgur.com/pHdiQi7.png)
