@@ -1,16 +1,10 @@
 Graphs of the Iridium NEXT 3 launch:
-|Velocity| vs Time
-![Velocity Abs annotated](https://i.imgur.com/ncM4g8g.png)
-Velocity vs Time
-![Velocity](https://i.imgur.com/FGJsgUj.png)
-Altitude vs Time
-![Altitude annotated](https://i.imgur.com/w7DIyhq.png)
-Acceleration vs Time
-![Acceleration annotated](https://i.imgur.com/8HYWfCf.png)
-Flight Trajectory vs Time
-![Flight Trajectory](https://i.imgur.com/9nAl7zJ.png)
-Altitude vs Acceleration
-![Altitude vs Acceleration annotated](https://i.imgur.com/ELR39Wg.png)
-Altitude vs Velocity
-![Altitude Vs Velocity](https://i.imgur.com/iZAihwX.png)
-![Aerodynamic Pressure vs Time](https://i.imgur.com/yYqUEuk.png)
+
+![Velocity Abs annotated](https://i.imgur.com/adwn9vN.png)
+![Velocity](https://i.imgur.com/jwDB08M.png)
+![Altitude annotated](https://i.imgur.com/Bicsmzc.png)
+![Acceleration annotated](https://i.imgur.com/Bjft1Yz.png)
+![Flight Trajectory](https://i.imgur.com/iHKXvKg.png)
+![Altitude vs Acceleration annotated](https://i.imgur.com/N9YPjbq.png)
+![Altitude Vs Velocity](https://i.imgur.com/7rVWB68.png)
+![Aerodynamic Pressure vs Time](https://i.imgur.com/CkoD5aJ.png)
