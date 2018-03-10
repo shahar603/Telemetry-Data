@@ -1,4 +1,4 @@
-![Mission Patch](http://i.imgur.com/BzYVR9F.png =250x250)
+<img src=http://i.imgur.com/BzYVR9F.png width=400px>
 
 ## Mission Data
 
@@ -34,7 +34,7 @@
 ![Velocity](https://i.imgur.com/BQucFhG.png)
 ![Altitude annotated](https://i.imgur.com/qim10FG.png)
 ![Acceleration annotated](https://i.imgur.com/Wyr6fVF.png)
-![Flight Trajectory](https://i.imgur.com/3FtxCWq.png)
+<img src=https://i.imgur.com/3FtxCWq.png height=750px>
 ![Altitude vs Acceleration annotated](https://i.imgur.com/MJd3FMb.png)
 ![Altitude Vs Velocity](https://i.imgur.com/4WfjM94.png)
 ![Aerodynamic Pressure vs Time](https://i.imgur.com/llBCdAV.png)
