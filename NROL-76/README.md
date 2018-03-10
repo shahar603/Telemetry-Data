@@ -1,4 +1,4 @@
-## Graphs of the Iridium NEXT 3 launch:
+## Graphs of the Iridium NEXT 3 launch
 
 ![Velocity Abs annotated](https://i.imgur.com/adwn9vN.png)
 ![Velocity](https://i.imgur.com/jwDB08M.png)
