@@ -1,36 +1,40 @@
-![Mission Patch](https://i.imgur.com/falQftx.png)
+![Mission Patch](http://i.imgur.com/BzYVR9F.png)
 
 ## Mission Data
 
 | Attribute | Value |
 | ------------- | ------------- |
-| Orbit | PO  |
+| Orbit | LEO  |
 | Vehicle | Falcon 9  |
-| Block | 4  |
-| Payload Mass | 8600 kg |
-| Landing | ASDS |
+| Block | 3  |
+| Payload Mass | Unknown |
+| Landing | RTLS |
 | Analysed Telemetry| Stage 1 |
 
 
 
 
-## Ascent Data
+## Ascent Telemetry
 
 | Attribute | Value |
 | ------------- | ------------- |
-| MECO Time | 147 seconds |
-| MECO Velocity | 1928.253 m/s |
-| MECO Altitude | 65.771 km |
-| Max acceleration | 3.63 g|
-| Stage 1 Apogee | 106.905 km |
+| MECO Time | 140 seconds |
+| MECO Velocity | 1684.961 m/s |
+| MECO Altitude | 67.753 km |
+| Max acceleration | 3.64 g|
+| Stage 1 Apogee | 165.61 km |
 
-## Graphs of the Iridium NEXT 3 launch
 
-![Velocity Abs annotated](https://i.imgur.com/adwn9vN.png)
-![Velocity](https://i.imgur.com/jwDB08M.png)
-![Altitude annotated](https://i.imgur.com/Bicsmzc.png)
-![Acceleration annotated](https://i.imgur.com/Bjft1Yz.png)
-![Flight Trajectory](https://i.imgur.com/iHKXvKg.png)
-![Altitude vs Acceleration annotated](https://i.imgur.com/N9YPjbq.png)
-![Altitude Vs Velocity](https://i.imgur.com/7rVWB68.png)
-![Aerodynamic Pressure vs Time](https://i.imgur.com/CkoD5aJ.png)
+
+
+
+## Graphs of the NROL-76 launch
+
+![Velocity Abs annotated](https://i.imgur.com/cnDc5T9.png)
+![Velocity](https://i.imgur.com/BQucFhG.png)
+![Altitude annotated](https://i.imgur.com/qim10FG.png)
+![Acceleration annotated](https://i.imgur.com/Wyr6fVF.png)
+![Flight Trajectory](https://i.imgur.com/3FtxCWq.png)
+![Altitude vs Acceleration annotated](https://i.imgur.com/MJd3FMb.png)
+![Altitude Vs Velocity](https://i.imgur.com/4WfjM94.png)
+![Aerodynamic Pressure vs Time](https://i.imgur.com/llBCdAV.png)
