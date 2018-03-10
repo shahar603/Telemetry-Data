@@ -1,4 +1,4 @@
-![Mission Patch](http://i.imgur.com/BzYVR9F.png)
+![Mission Patch](http://i.imgur.com/BzYVR9F.png =250x250)
 
 ## Mission Data
 
