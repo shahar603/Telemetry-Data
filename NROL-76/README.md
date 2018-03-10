@@ -1,8 +1,28 @@
 ![Mission Patch](https://i.imgur.com/falQftx.png)
 
-| First Header  | Second Header |
+## Mission Data
+
+| Attribute | Value |
 | ------------- | ------------- |
-| Payload Orbit | PO  |
+| Orbit | PO  |
+| Vehicle | Falcon 9  |
+| Block | 4  |
+| Payload Mass | 8600 kg |
+| Landing | ASDS |
+| Analysed Telemetry| Stage 1 |
+
+
+
+
+## Ascent Data
+
+| Attribute | Value |
+| ------------- | ------------- |
+| MECO Time | 147 seconds |
+| MECO Velocity | 1928.253 m/s |
+| MECO Altitude | 65.771 km |
+| Max acceleration | 3.63 g|
+| Stage 1 Apogee | 106.905 km |
 
 ## Graphs of the Iridium NEXT 3 launch
 
