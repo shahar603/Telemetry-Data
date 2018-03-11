@@ -1,6 +1,6 @@
 # NROL-76
 
-<img src=http://i.imgur.com/BzYVR9F.png width=400px>
+<img src="http://i.imgur.com/BzYVR9F.png" width=400px>
 
 ## Mission Data
 
@@ -32,11 +32,11 @@
 
 ## Graphs of the NROL-76 launch
 
-![Velocity Abs annotated](https://i.imgur.com/cnDc5T9.png)
-![Velocity](https://i.imgur.com/BQucFhG.png)
-![Altitude annotated](https://i.imgur.com/qim10FG.png)
-![Acceleration annotated](https://i.imgur.com/Wyr6fVF.png)
-<img src=https://i.imgur.com/3FtxCWq.png height=750px>
-![Altitude vs Acceleration annotated](https://i.imgur.com/MJd3FMb.png)
-![Altitude Vs Velocity](https://i.imgur.com/4WfjM94.png)
-![Aerodynamic Pressure vs Time](https://i.imgur.com/llBCdAV.png)
+![Velocity Abs annotated](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Velocity%20Abs%20annotated.png)
+![Velocity](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Velocity.png)
+![Altitude annotated](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Altitude%20annotated.png)
+![Acceleration annotated](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Acceleration%20annotated.png)
+<img src=https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Flight%20Trajectory.png height=750px>
+![Altitude vs Acceleration annotated](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Altitude%20vs%20Acceleration%20annotated.png)
+![Altitude Vs Velocity](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Altitude%20Vs%20Velocity.png)
+![Aerodynamic Pressure vs Time](https://github.com/shahar603/Telemetry-Data/blob/master/NROL-76/Graphs/Aerodynamic%20Pressure.png)
