@@ -35,7 +35,7 @@
 ![Velocity Abs annotated](https://i.imgur.com/NDuc2DV.png)
 ![Velocity](https://i.imgur.com/NBj1Yhu.png)
 ![Altitude annotated](https://i.imgur.com/ldxyTxe.png)
-![Acceleration annotated](https://i.imgur.com/pd3oqhd.png)
+![Acceleration annotated](https://github.com/shahar603/Telemetry-Data/blob/master/CRS-10/Acceleration%20annotated.png)
 ![Flight Trajectory](https://i.imgur.com/pHDLeFF.png)
 ![Altitude vs Acceleration annotated](https://i.imgur.com/nHYBl3S.png)
 ![Altitude Vs Velocity](https://i.imgur.com/DYG7lKs.png)
