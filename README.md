@@ -42,6 +42,11 @@ The [Launches](https://github.com/shahar603/Telemetry-Data/raw/master/Laucnhes.j
 
 The ```flight_number``` is consistant with the [r-spacex database](https://github.com/r-spacex/SpaceX-API).
 
+
+## The Events.xlsx file
+
+A [Spreadsheet](https://github.com/shahar603/Telemetry-Data/raw/master/Events.xlsx) that compares telemetry of Specific events between launches (Like MECO altitude or Stage 1 apogee).
+
 ## Example
 
 This is the JSON Object representing the Orbcomm OG2 launch.
