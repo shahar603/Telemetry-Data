@@ -9,32 +9,36 @@
 The Telemetry is available in three formats: *JSON*, *Excel* and [*JSON Streaming*](https://en.wikipedia.org/wiki/JSON_streaming).
 
 Each directory contain the following files:
-* **Launch name raw** - a file contaning the time, velocity and altitude caputred from the webcast in 30 fps.
+* **< Launch name > raw** - a file contaning the time, velocity and altitude caputred from the webcast in 30 fps.
 Usage of this file is not recommended due to the mix of telemetry of the first and second stage (see stage1 raw and stage2 raw below).
 
-* **stage1 raw** - a file contaning the time, velocity and altitude caputred from the webcast in 30 fps of the first stage.
+* **stage1 raw** - a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast in 30 fps of the first stage.
 
-* **stage2 raw** - a file contaning the time, velocity and altitude caputred from the webcast caputred in 30 fps of the second stage.
+* **stage2 raw** - a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast caputred in 30 fps of the second stage.
 
-* **analysed** - a file contaning Telemetry calculated using the raw files.
+* **analysed** - a file contaning Telemetry calculated using the raw files (more details below).
 
-* **events** - a file contaning the times (rounded to the nearest second) of major events (ex: MECO, Entry Burn Start etc) during the launch.
+* **events** - a file contaning the time of several specific events (rounded to the nearest second). For example: MECO, Max-Q, Entry Burn Ignition etc.
 
-* **stages** - ???
+* **stages** - a file contaning the beginning of the webcast telemetry of each stage. 
 
 
 ## Analysed files
+
+
 
 These files contain the following fields:
 
 Time (s), Velocity (m/s), Altitude (km), Vertical Velocity (m/s), Horizontal Velocity (m/s), Acceleration (m/s^2) (with gravity), Downrange Distance (km), Velocity Angle (degrees), Aerodynamic Pressure (N).
 
-The files contain data from T+0 until the telemetry is cut. They are only available for a single stage. The analysed stage can be found in the [Launches](https://github.com/shahar603/Telemetry-Data/raw/master/Laucnhes.json) file in the field ```analysed_stage```
+The files contain data from T+0 until the telemetry is cut. Each launch has analysis of either stage 1 or 2. The analysed stage can be found in the [Launches](https://github.com/shahar603/Telemetry-Data/raw/master/Laucnhes.json) file in the field ```analysed_stage```.
 
 
-The [Launches](https://github.com/shahar603/Telemetry-Data/raw/master/Laucnhes.json) JSON file contains links to each file of each launch.
+## The Launches.json file
 
-The flight_number is consistant with the [r-spacex database](https://github.com/r-spacex/SpaceX-API)
+The [Launches](https://github.com/shahar603/Telemetry-Data/raw/master/Laucnhes.json) JSON file contains links to the telemetry files described above.
+
+The ```flight_number``` is consistant with the [r-spacex database](https://github.com/r-spacex/SpaceX-API).
 
 ## Example
 
@@ -71,5 +75,8 @@ This is the JSON Object representing the Orbcomm OG2 launch.
 }
 ```
 
-* I am not affiliated with SpaceX in any way, shape, form.
-* All the Telemetry was captured from SpaceX' webcasts
+
+## Future Developments
+
+* Setting up a database and domain.
+
