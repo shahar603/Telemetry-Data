@@ -12,9 +12,9 @@ Each directory contain the following files:
 * **< Launch name > raw** - a file contaning the time, velocity and altitude caputred from the webcast in 30 fps.
 Usage of this file is not recommended due to the mix of telemetry of the first and second stage (see stage1 raw and stage2 raw below).
 
-* **stage1 raw** \*- a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast in 30 fps of the first stage. _This file only exists if there is available telemetry_.
+* **stage1 raw** - a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast in 30 fps of the first stage. _This file only exists if there is available telemetry_.
 
-* **stage2 raw** \*- a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast caputred in 30 fps of the second stage._This file only exists if there is available telemetry_.
+* **stage2 raw** - a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast caputred in 30 fps of the second stage._This file only exists if there is available telemetry_.
 
 * **analysed** - a file contaning Telemetry calculated using the raw files (more details below).
 
@@ -80,6 +80,11 @@ This is the JSON Object representing the Orbcomm OG2 launch.
 
 ## Future Developments
 
-* Setting up a database and domain.
+* Setting up a database and domain to host the files.
 
 * Integration with the [r-spacex database](https://github.com/r-spacex/SpaceX-API)
+
+
+
+
+I am not affiliated with SpaceX in any matter. All the telemetry data used is publicly available in SpaceX' YouTube channel.
