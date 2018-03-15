@@ -12,22 +12,24 @@ Each directory contain the following files:
 * **< Launch name > raw** - a file contaning the time, velocity and altitude caputred from the webcast in 30 fps.
 Usage of this file is not recommended due to the mix of telemetry of the first and second stage (see stage1 raw and stage2 raw below).
 
-* **stage1 raw** - a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast in 30 fps of the first stage.
+* **stage1 raw** \*- a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast in 30 fps of the first stage. _This file only exists if there is available telemetry_.
 
-* **stage2 raw** - a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast caputred in 30 fps of the second stage.
+* **stage2 raw** \*- a file contaning the time (s), velocity (m/s) and altitude (km) caputred from the webcast caputred in 30 fps of the second stage._This file only exists if there is available telemetry_.
 
 * **analysed** - a file contaning Telemetry calculated using the raw files (more details below).
 
 * **events** - a file contaning the time of several specific events (rounded to the nearest second). For example: MECO, Max-Q, Entry Burn Ignition etc.
 
-* **stages** - a file contaning the beginning of the webcast telemetry of each stage. 
+* **stages** - a file contaning the beginning of the webcast telemetry of each stage.  _This file does not exists in Excel format_
+
+
 
 
 ## Analysed files
 
+### The analysed files contain telemetry that can be calculated from the raw data in 1 second interval.
 
-
-These files contain the following fields:
+**These files contain the following fields:**
 
 Time (s), Velocity (m/s), Altitude (km), Vertical Velocity (m/s), Horizontal Velocity (m/s), Acceleration (m/s^2) (with gravity), Downrange Distance (km), Velocity Angle (degrees), Aerodynamic Pressure (N).
 
