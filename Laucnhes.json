@@ -98,7 +98,7 @@
             "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-8/JSON/SpaceX%20CRS-8%20raw.json",
             "stage1": null,
             "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-8/JSON/stage2%20raw.json",
-            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-8/JSON/analysed.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-8/JSON/analysed2.json",
             "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-8/JSON/events.json",
             "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-8/JSON/stages.json"
         },
@@ -392,6 +392,34 @@
         }
     },
     {
+        "mission_name": "Inmarsat-5 F4",
+        "flight_number": 40,
+        "analysed_stage": 2,
+        "Excel": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/Excel/Inmarsat-5%20Flight%204%20raw.xlsx",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/Excel/stage2%20raw.xlsx",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/Excel/analysed.xlsx",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/Excel/events.xlsx"
+        },
+        "JSON": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON/Inmarsat-5%20Flight%204%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON/stages.json"
+        },
+        "JSON STREAMING": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON%20STREAMING/Inmarsat-5%20Flight%204%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON%20STREAMING/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON%20STREAMING/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON%20STREAMING/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Inmarsat-5%20F4/JSON%20STREAMING/stages.json"
+        }
+    },
+    {
         "mission_name": "SpaceX CRS-11",
         "flight_number": 41,
         "analysed_stage": 1,
@@ -434,7 +462,7 @@
             "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/BulgariaSat-1%20raw.json",
             "stage1": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/stage1%20raw.json",
             "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/stage2%20raw.json",
-            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/analysed.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/analysed2.json",
             "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/events.json",
             "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/BulgariaSat-1/JSON/stages.json"
         },
@@ -490,7 +518,7 @@
             "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/SpaceX%20CRS-12%20raw.json",
             "stage1": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/stage1%20raw.json",
             "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/stage2%20raw.json",
-            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/analysed.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/analysed2.json",
             "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/events.json",
             "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-12/JSON/stages.json"
         },
@@ -630,7 +658,7 @@
             "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/KoreaSat%205A%20raw.json",
             "stage1": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/stage1%20raw.json",
             "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/stage2%20raw.json",
-            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/analysed.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/analysed2.json",
             "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/events.json",
             "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/KoreaSat%205A/JSON/stages.json"
         },
@@ -837,6 +865,90 @@
             "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Hispasat%2030W-6/JSON%20STREAMING/analysed.json",
             "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Hispasat%2030W-6/JSON%20STREAMING/events.json",
             "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Hispasat%2030W-6/JSON%20STREAMING/stages.json"
+        }
+    },
+    {
+        "mission_name": "Iridium NEXT 5",
+        "flight_number": 58,
+        "analysed_stage": 2,
+        "Excel": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/Excel/Iridium%20NEXT%205%20raw.xlsx",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/Excel/stage2%20raw.xlsx",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/Excel/analysed.xlsx",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/Excel/events.xlsx"
+        },
+        "JSON": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON/Iridium%20NEXT%205%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON/stages.json"
+        },
+        "JSON STREAMING": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON%20STREAMING/Iridium%20NEXT%205%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON%20STREAMING/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON%20STREAMING/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON%20STREAMING/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Iridium%20NEXT%205/JSON%20STREAMING/stages.json"
+        }
+    },
+    {
+        "mission_name": "SpaceX CRS-14",
+        "flight_number": 59,
+        "analysed_stage": 2,
+        "Excel": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/Excel/SpaceX%20CRS-14%20raw.xlsx",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/Excel/stage2%20raw.xlsx",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/Excel/analysed.xlsx",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/Excel/events.xlsx"
+        },
+        "JSON": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON/SpaceX%20CRS-14%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON/stages.json"
+        },
+        "JSON STREAMING": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON%20STREAMING/SpaceX%20CRS-14%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON%20STREAMING/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON%20STREAMING/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON%20STREAMING/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/SpaceX%20CRS-14/JSON%20STREAMING/stages.json"
+        }
+    },
+    {
+        "mission_name": "TESS",
+        "flight_number": 60,
+        "analysed_stage": 2,
+        "Excel": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/Excel/TESS%20raw.xlsx",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/Excel/stage2%20raw.xlsx",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/Excel/analysed.xlsx",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/Excel/events.xlsx"
+        },
+        "JSON": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON/TESS%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON/stages.json"
+        },
+        "JSON STREAMING": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/TESS%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/stages.json"
         }
     }
 ]
