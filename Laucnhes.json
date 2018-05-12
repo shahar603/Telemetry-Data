@@ -950,5 +950,33 @@
             "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/events.json",
             "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/TESS/JSON%20STREAMING/stages.json"
         }
+    },
+    {
+        "mission_name": "Bangabandhu-1",
+        "flight_number": 61,
+        "analysed_stage": 2,
+        "Excel": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/Excel/Bangabandhu-1%20raw.xlsx",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/Excel/stage2%20raw.xlsx",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/Excel/analysed.xlsx",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/Excel/events.xlsx"
+        },
+        "JSON": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON/Bangabandhu-1%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON/stages.json"
+        },
+        "JSON STREAMING": {
+            "raw": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON%20STREAMING/Bangabandhu-1%20raw.json",
+            "stage1": null,
+            "stage2": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON%20STREAMING/stage2%20raw.json",
+            "analysed": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON%20STREAMING/analysed.json",
+            "events": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON%20STREAMING/events.json",
+            "stages": "https://raw.githubusercontent.com/shahar603/Telemetry-Data/master/Bangabandhu-1/JSON%20STREAMING/stages.json"
+        }
     }
 ]
