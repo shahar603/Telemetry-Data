@@ -1,1 +1,1 @@
-{"maxq": 61, "throttle_down_start": 55, "throttle_down_end": 76, "meco": 150, "boostback_start": 166, "boostback_end": 199, "apogee": 225, "entry_start": 337, "entry_end": 353, "landing_start": 404, "landing_end": 425, "ses1": null, "seco1": null, "ses2": null, "seco2": null}
+{"maxq": 61, "throttle_down_start": 55, "throttle_down_end": 76, "meco": 150, "boostback_start": 166, "boostback_end": 199, "apogee": 225, "entry_start": 337, "entry_end": 353, "landing_start": 404, "landing_end": null, "ses1": null, "seco1": null, "ses2": null, "seco2": null}

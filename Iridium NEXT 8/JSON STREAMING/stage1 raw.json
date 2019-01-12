@@ -3845,7 +3845,7 @@
 {"time": 128.166, "velocity": 1315.277, "altitude": 48.3}
 {"time": 128.199, "velocity": 1315.555, "altitude": 48.3}
 {"time": 128.233, "velocity": 1316.388, "altitude": 48.3}
-{"time": 128.265, "velocity": 1316.944, "altitude": 48.3}
+{"time": 128.264, "velocity": 1316.944, "altitude": 48.3}
 {"time": 128.3, "velocity": 1317.5, "altitude": 48.4}
 {"time": 128.333, "velocity": 1318.055, "altitude": 48.4}
 {"time": 128.366, "velocity": 1318.333, "altitude": 48.4}
@@ -3860,7 +3860,7 @@
 {"time": 128.666, "velocity": 1326.111, "altitude": 48.7}
 {"time": 128.699, "velocity": 1326.944, "altitude": 48.7}
 {"time": 128.733, "velocity": 1328.055, "altitude": 48.7}
-{"time": 128.765, "velocity": 1328.611, "altitude": 48.8}
+{"time": 128.764, "velocity": 1328.611, "altitude": 48.8}
 {"time": 128.8, "velocity": 1329.444, "altitude": 48.8}
 {"time": 128.833, "velocity": 1330.555, "altitude": 48.8}
 {"time": 128.866, "velocity": 1331.388, "altitude": 48.9}
@@ -3875,7 +3875,7 @@
 {"time": 129.166, "velocity": 1339.166, "altitude": 49.1}
 {"time": 129.199, "velocity": 1339.722, "altitude": 49.2}
 {"time": 129.233, "velocity": 1340.833, "altitude": 49.2}
-{"time": 129.265, "velocity": 1341.666, "altitude": 49.2}
+{"time": 129.264, "velocity": 1341.666, "altitude": 49.2}
 {"time": 129.3, "velocity": 1342.5, "altitude": 49.2}
 {"time": 129.333, "velocity": 1343.611, "altitude": 49.3}
 {"time": 129.366, "velocity": 1344.166, "altitude": 49.3}
@@ -3890,7 +3890,7 @@
 {"time": 129.666, "velocity": 1350.277, "altitude": 49.5}
 {"time": 129.699, "velocity": 1351.111, "altitude": 49.6}
 {"time": 129.733, "velocity": 1352.222, "altitude": 49.6}
-{"time": 129.765, "velocity": 1353.055, "altitude": 49.6}
+{"time": 129.764, "velocity": 1353.055, "altitude": 49.6}
 {"time": 129.8, "velocity": 1353.611, "altitude": 49.6}
 {"time": 129.833, "velocity": 1355.0, "altitude": 49.7}
 {"time": 129.866, "velocity": 1355.555, "altitude": 49.7}
@@ -3905,7 +3905,7 @@
 {"time": 130.166, "velocity": 1362.777, "altitude": 50.0}
 {"time": 130.199, "velocity": 1363.333, "altitude": 50.0}
 {"time": 130.233, "velocity": 1364.722, "altitude": 50.0}
-{"time": 130.265, "velocity": 1365.555, "altitude": 50.1}
+{"time": 130.264, "velocity": 1365.555, "altitude": 50.1}
 {"time": 130.3, "velocity": 1366.111, "altitude": 50.1}
 {"time": 130.333, "velocity": 1367.5, "altitude": 50.1}
 {"time": 130.366, "velocity": 1368.055, "altitude": 50.1}
@@ -3920,7 +3920,7 @@
 {"time": 130.666, "velocity": 1373.611, "altitude": 50.3}
 {"time": 130.699, "velocity": 1374.166, "altitude": 50.4}
 {"time": 130.733, "velocity": 1374.444, "altitude": 50.4}
-{"time": 130.765, "velocity": 1375.0, "altitude": 50.4}
+{"time": 130.764, "velocity": 1375.0, "altitude": 50.4}
 {"time": 130.8, "velocity": 1375.277, "altitude": 50.4}
 {"time": 130.833, "velocity": 1375.555, "altitude": 50.4}
 {"time": 130.866, "velocity": 1376.666, "altitude": 50.5}
