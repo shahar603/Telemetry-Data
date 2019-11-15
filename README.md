@@ -4,6 +4,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/2000px-SpaceX-Logo.svg.png)
 
 
+# The telemtry in this repository has been moved to the [Launch Dashboard API](https://github.com/shahar603/Launch-Dashboard-API).
+
 # Structure
 
 The Telemetry is available in three formats: *JSON*, *Excel* and [*JSON Streaming*](https://en.wikipedia.org/wiki/JSON_streaming).
